@@ -1,4 +1,4 @@
-# Repository Guidance
+# Repository Guidance.
 
 ## Overview
 
